@@ -1,5 +1,6 @@
 default:
 	pdflatex conceptests
+	pdflatex conceptests
 
 post:
 	cp conceptests.pdf ~/Lightandmatter
