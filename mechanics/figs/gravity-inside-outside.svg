@@ -14,7 +14,6 @@
    height="1052.3622047"
    id="svg3147"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
    sodipodi:docname="inside-outside.svg">
   <defs
      id="defs3149">
@@ -59,18 +58,9 @@
          offset="1"
          style="stop-color:#525252"
          id="stop4540" />
-      <midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4542" />
-      <midPointStop
-         offset="0.27"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4544" />
-      <midPointStop
-         offset="1"
-         style="stop-color:#525252"
-         id="midPointStop4546" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        id="XMLID_7_"
@@ -113,18 +103,9 @@
          offset="1"
          style="stop-color:#525252"
          id="stop4565" />
-      <midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4567" />
-      <midPointStop
-         offset="0.27"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4569" />
-      <midPointStop
-         offset="1"
-         style="stop-color:#525252"
-         id="midPointStop4571" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        id="XMLID_8_"
@@ -167,18 +148,9 @@
          offset="1"
          style="stop-color:#525252"
          id="stop4590" />
-      <midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4592" />
-      <midPointStop
-         offset="0.27"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4594" />
-      <midPointStop
-         offset="1"
-         style="stop-color:#525252"
-         id="midPointStop4596" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        id="XMLID_9_"
@@ -221,18 +193,9 @@
          offset="1"
          style="stop-color:#525252"
          id="stop4615" />
-      <midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4617" />
-      <midPointStop
-         offset="0.27"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4619" />
-      <midPointStop
-         offset="1"
-         style="stop-color:#525252"
-         id="midPointStop4621" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        id="XMLID_10_"
@@ -275,18 +238,9 @@
          offset="1"
          style="stop-color:#525252"
          id="stop4640" />
-      <midPointStop
-         offset="0"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4642" />
-      <midPointStop
-         offset="0.27"
-         style="stop-color:#FFFFFF"
-         id="midPointStop4644" />
-      <midPointStop
-         offset="1"
-         style="stop-color:#525252"
-         id="midPointStop4646" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -329,18 +283,9 @@
          id="stop4773"
          style="stop-color:#525252"
          offset="1" />
-      <midPointStop
-         id="midPointStop4775"
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <midPointStop
-         id="midPointStop4777"
-         style="stop-color:#FFFFFF"
-         offset="0.27" />
-      <midPointStop
-         id="midPointStop4779"
-         style="stop-color:#525252"
-         offset="1" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -383,18 +328,9 @@
          id="stop4798"
          style="stop-color:#525252"
          offset="1" />
-      <midPointStop
-         id="midPointStop4800"
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <midPointStop
-         id="midPointStop4802"
-         style="stop-color:#FFFFFF"
-         offset="0.27" />
-      <midPointStop
-         id="midPointStop4804"
-         style="stop-color:#525252"
-         offset="1" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -437,18 +373,9 @@
          id="stop4823"
          style="stop-color:#525252"
          offset="1" />
-      <midPointStop
-         id="midPointStop4825"
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <midPointStop
-         id="midPointStop4827"
-         style="stop-color:#FFFFFF"
-         offset="0.27" />
-      <midPointStop
-         id="midPointStop4829"
-         style="stop-color:#525252"
-         offset="1" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -491,18 +418,9 @@
          id="stop4848"
          style="stop-color:#525252"
          offset="1" />
-      <midPointStop
-         id="midPointStop4850"
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <midPointStop
-         id="midPointStop4852"
-         style="stop-color:#FFFFFF"
-         offset="0.27" />
-      <midPointStop
-         id="midPointStop4854"
-         style="stop-color:#525252"
-         offset="1" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -545,18 +463,9 @@
          id="stop4873"
          style="stop-color:#525252"
          offset="1" />
-      <midPointStop
-         id="midPointStop4875"
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <midPointStop
-         id="midPointStop4877"
-         style="stop-color:#FFFFFF"
-         offset="0.27" />
-      <midPointStop
-         id="midPointStop4879"
-         style="stop-color:#525252"
-         offset="1" />
+      
+      
+      
     </radialGradient>
     <radialGradient
        inkscape:collect="always"
