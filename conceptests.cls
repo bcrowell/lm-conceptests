@@ -35,3 +35,7 @@
   \sloppy
   \DeclareGraphicsExtensions{.pdf,.jpg,.png}
 }
+\newcommand{\mytilde}[1]{\widetilde{#1}}
+\newcommand{\mytildewide}[1]{\stackrel{\sim}{\smash{#1}\rule{0pt}{1.1ex}}}
+%      ... for use with wide characters like W
+%      https://tex.stackexchange.com/questions/471312/large-tilde-over-math-symbol-with-appropriate-horizontal-positioning
